@@ -2,7 +2,7 @@
 #mysql
 #redis
 #bitnami/etcd
-ghcr.io/senshinya/moontv
+ghcr.io/moontechlab/lunatv
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
