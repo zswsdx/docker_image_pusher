@@ -1,7 +1,7 @@
-nginx
-mysql
-redis
-bitnami/etcd
+#nginx
+#mysql
+#redis
+#bitnami/etcd
 ghcr.io/senshinya/moontv
 
 #支持私库
